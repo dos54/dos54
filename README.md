@@ -23,5 +23,6 @@ I'm Steven Thomas, a student at Brigham Young University-Idaho interested in web
 ## Let's Connect!
 
 - Here is my [LinkedIn](www.linkedin.com/in/steven-thomas-8383b1282) profile
+- Shoot me an email at stevencthomas54@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
